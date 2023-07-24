@@ -1,10 +1,16 @@
+![visitor badge](https://vbr.wocr.tk/badge?page_id=isaaclo97.BandCollocationProblem&color=be54c6&style=flat&logo=Github)
+![Manintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub last commit (master)](https://img.shields.io/github/last-commit/isaaclo97/BandCollocationProblem)
+![Starts](https://img.shields.io/github/stars/isaaclo97/BandCollocationProblem.svg)
+
 # Optimizing Computer Networks Communication with the Band Collocation Problem: A Variable Neighborhood Search Approach
 
 The Band Collocation Problem appears in the context of problems for optimizing telecommunication networks with the aim of solving some concerns related to the original Bandpass Problem and to present a more realistic approximation to be solved. This problem is interesting to optimize the cost of networks with several devices connected, such as networks with several embedded systems transmitting information among them. Despite the real-world applications of this problem, it has been mostly ignored from a heuristic point of view, with the Simulated Annealing algorithm being the best method found in the literature. In this work, three Variable Neighborhood Search (VNS) variants are presented, as well as three neighborhood structures and a novel optimization based on Least Recently Used cache, which allows the algorithm to perform an efficient evaluation of the objective function. The extensive experimental results section shows the superiority of the proposal with respect to the best previous method found in the state-of-the-art, emerging VNS as the most competitive method to deal with the Band Collocation Problem.
 
-Paper link: <https://doi.org/10.3390/electronics9111860>
-Impact Factor: 2.412
-Quartile: Q2
+- Paper link: <https://doi.org/10.3390/electronics9111860>
+- Impact Factor: 2.397
+- Quartil: Q3 - 68/145 - Computer Science, Information Systems | Q3 - 145/273 - Engineering, Electrical & Electronic | 2020  <br>
+- Journal: electronics
 
 ## Datasets
 
